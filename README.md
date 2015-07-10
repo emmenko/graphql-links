@@ -1,5 +1,3 @@
-# graphql-links
-
 A list of GraphQL libraries for different languages found around the web. 
 
 > I will try to keep the list up-to-date, if you know some library not listed please drop a PR or create an issue.
