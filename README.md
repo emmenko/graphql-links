@@ -18,4 +18,6 @@ A list of GraphQL libraries for different languages found around the web.
 ## .NET
 - [graphql-dotnet](https://github.com/joemcbride/graphql-dotnet)
 
+## Ruby 
 
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
