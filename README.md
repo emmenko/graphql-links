@@ -32,3 +32,10 @@ A list of GraphQL libraries for different languages found around the web.
 ## Postgres
 
 - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
+
+
+---
+
+#### Other resources about GraphQL
+
+- https://github.com/devknoll/graphql-resources
