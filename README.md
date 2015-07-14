@@ -39,3 +39,4 @@ A list of GraphQL libraries for different languages found around the web.
 #### Other resources about GraphQL
 
 - https://github.com/devknoll/graphql-resources
+- https://github.com/chute/graphql-rest
