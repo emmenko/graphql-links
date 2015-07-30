@@ -9,7 +9,7 @@ A list of GraphQL libraries for different languages found around the web.
 
 ## Scala
 
-- [sangria](https://github.com/OlegIlyenko/sangria) - [website](http://sangria-graphql.org/)
+- [sangria-graphql](https://github.com/sangria-graphql) - [website](http://sangria-graphql.org/)
 - [graphql-scala](https://github.com/hjlarsson/graphql-scala)
 
 ## Java
